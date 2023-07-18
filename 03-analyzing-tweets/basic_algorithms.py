@@ -1,5 +1,5 @@
 """
-CS 121: Analyzing Election Tweets
+Analyzing Election Tweets
 
 Gabriela Ayala
 
